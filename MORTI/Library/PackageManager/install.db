@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "9a2b5b85553b",
+        "mtime": 1673152779796,
+        "size": 12029211,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.7.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1673152780523,
+        "size": 55195848,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1673152777450,
+        "size": 1131406,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1666558486839,
+        "size": 796147,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1673152777755,
+        "size": 11691469,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1666558486933,
+        "size": 343203,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1666558486263,
+        "size": 226297,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1673152777413,
+        "size": 5328617,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "b1a5df198759",
+        "mtime": 1673152776443,
+        "size": 18590,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1673152777138,
+        "size": 2111115,
+        "localPath": "D:\\Production Software\\Coding\\Unity Projects\\UNL-SUITS-2022-Submission\\MORTI\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}
