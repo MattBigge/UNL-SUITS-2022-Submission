@@ -15,3 +15,15 @@ Preston Ward - [Team Lead], Freshman Electrical Engineering<br />
 Peyton Comer - [Team Lead], Freshman [Major]<br />
 Eli Schoneweis - [Team Role], Sophomore Computer Science<br />
 Lindsey [Last Name]- Graphic Design(UI), [Year] [Major]<br />
+
+Faculty Advisor:<br />
+Dr Chris Bourke, Associate Professor of Practice, School of Computing, University of Nebraska-Lincoln<br />
+
+Project Timeline:<br />
+Oct-Nov 22 - Team gathered and proposal developed/submitted to NASA for review<br />
+Dec 7th - Team Accepted for development<br />
+Dec 15th - Mission Briefing #1 Attended<br />
+Dec 17th-January 3rd - University Holiday Break<br />
+Jan 4th-20th - Predevelopment work, project initialization and setup, Production software and documentation<br />
+Jan 21st - First day of classes and beginnning of Sprint #1<br />
+
