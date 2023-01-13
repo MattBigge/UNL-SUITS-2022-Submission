@@ -7,7 +7,7 @@ MORTI(Multi Observation Reality Tool and Interface) is tool to support astronaut
 NASA SUITS(Spacesuit User Interface Technolocy for Students) is a NASA led challenge where college student teams submit proposals for future solutions in Augmented Reality tech for spacesuits interfaces. This challenge has been successful in teaching students skills in AR/VR development and the software development cycle key in their future careers.[Link to SUITS website] [More Summary on SUITS]
 
 2022-2023 Developers:
-Matthew Bigge - Team Lead, Senior Computer Science and Music
+Matthew Bigge - Team Lead, Senior Computer Science and Music\n
 Joeseph Seibel - [Team Role], Freshmen Computer Science and Biological Systems Engineering 
 Michael McDevournett [], Freshmen Software Engineering
 Charlie McIver - [Team Lead], Freshman Computer Engineering
