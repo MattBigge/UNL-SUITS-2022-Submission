@@ -9,6 +9,15 @@
 [Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]in/
+**/[Bb]uilds/
+**/[Bb]uild/
+**/[Ll]ibrary/
+**/[Aa]pp/
+**/[Uu]serSettings/
+**/[Ll]ogs/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
