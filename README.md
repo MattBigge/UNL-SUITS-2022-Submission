@@ -9,9 +9,9 @@ NASA SUITS(Spacesuit User Interface Technolocy for Students) is a NASA led chall
 2022-2023 Developers:<br />
 Matthew Bigge - Team Lead, Senior Computer Science and Music<br />
 Joseph Seibel - [Team Role], Freshmen Computer Science and Biological Systems Engineering <br />
-Michael McDevournett [], Freshmen Software Engineering<br />
+Michael McDevournett [Team Role], Freshmen Software Engineering<br />
 Charlie McIver - [Team Lead], Freshman Computer Engineering<br />
 Preston Ward - [Team Lead], Freshman Electrical Engineering<br />
 Peyton Comer - [Team Lead], Freshman [Major]<br />
-Eli Schoneweis - [], Sophomore Computer Science<br />
-Lindsey - Graphic Design(UI), [Year] [Major]<br />
+Eli Schoneweis - [Team Role], Sophomore Computer Science<br />
+Lindsey [Last Name]- Graphic Design(UI), [Year] [Major]<br />
