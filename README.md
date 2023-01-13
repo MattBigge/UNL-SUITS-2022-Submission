@@ -1,7 +1,7 @@
 # UNL-SUITS-2022-Submission
 UNL Submission for the NASA SUITS 2022 Student challenge 
 
-MORTI(Multi Observation Reality Tool and Interface) is tool to support astronauts in the upcoming Artemis missions to the lunar surface. It operates in a Microsoft Hololens environment, with UI and tools to assist with mission specific directives, navigation, and bioinformatics tracking.
+MORTI(Multi Observation Reality Tool and Interface) is an Augmented Reality tool to support astronauts in the Artemis missions to the lunar surface. It operates in a Microsoft Hololens environment, with UI and tools to assist with mission specific directives, navigation, and bioinformatics tracking.
 
 ### What is NASA SUITS?
 NASA SUITS(Spacesuit User Interface Technolocy for Students) is a NASA led challenge where college student teams submit proposals for future solutions in Augmented Reality tech for spacesuits interfaces. This challenge has been successful in teaching students skills in AR/VR development and the software development cycle key in their future careers.[Link to SUITS website] [More Summary on SUITS]
