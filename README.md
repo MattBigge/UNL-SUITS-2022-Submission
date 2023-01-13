@@ -16,7 +16,7 @@ Peyton Comer - [Team Lead], Freshman [Major]<br />
 Eli Schoneweis - [Team Role], Sophomore Computer Science<br />
 Lindsey [Last Name]- Graphic Design(UI), [Year] [Major]<br />
 
-## Faculty Advisor:<br />
+### Faculty Advisor:<br />
 Dr Chris Bourke, Associate Professor of Practice, School of Computing, University of Nebraska-Lincoln<br />
 
 ## Project Timeline:<br />
