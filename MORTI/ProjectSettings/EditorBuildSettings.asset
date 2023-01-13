@@ -4,10 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/MORTI Main Scene.unity
-    guid: 931334965f8f0404dbf10d9c20c476bb
+  m_Scenes: []
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: afb1e5a2423404b46997f42dd21d45cb, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c03d28ec565780646928286b82f04aa4, type: 2}

@@ -46,12 +46,6 @@
         "com.microsoft.mixedreality.toolkit.standardassets": "2.8.3"
       }
     },
-    "com.microsoft.mixedreality.toolkit.gpustats": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
     "com.microsoft.mixedreality.toolkit.micstream": {
       "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz",
       "depth": 0,
