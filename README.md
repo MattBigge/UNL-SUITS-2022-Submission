@@ -18,6 +18,7 @@ Lindsey Johnson- Graphic Design(UI), [Year] [Major]<br />
 
 ### Faculty Advisor:<br />
 Dr Chris Bourke, Associate Professor of Practice, School of Computing, University of Nebraska-Lincoln<br />
+https://chrisbourke.unl.edu/ <br />
 
 ## Project Timeline:<br />
 Oct-Nov 22 - Team gathered and proposal developed/submitted to NASA for review<br />
