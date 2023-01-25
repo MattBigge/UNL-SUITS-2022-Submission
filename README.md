@@ -13,10 +13,10 @@ Matthew Bigge - Team Lead, Senior Computer Science and Music<br />
 Joseph Seibel - [Team Role], Freshmen Computer Science and Biological Systems Engineering <br />
 Michael McDevournett [Team Role], Freshmen Software Engineering<br />
 Charlie McIver - [Team Lead], Freshman Computer Engineering<br />
-Preston Ward - [Team Lead], Freshman Electrical Engineering<br />
-Peyton Comer - [Team Lead], Freshman [Major]<br />
+Preston Ward - [Team Lead], Freshman Computer Engineering<br />
+Peyton Comer - [Team Lead], Freshman Computer Science <br />
 Eli Schoneweis - [Team Role], Sophomore Computer Science<br />
-Lindsey Johnson- Graphic Design(UI), [Year] [Major]<br />
+Lindsey Johnson- Graphic Design(UI), Freshman Studio Art and Graphic Design<br />
 
 ### Faculty Advisor:<br />
 Dr Chris Bourke, Associate Professor of Practice, School of Computing, University of Nebraska-Lincoln<br />
