@@ -732,11 +732,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: UNL-RED-TEAMS-MORTI
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 003a1dba6953da01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: MORTI
